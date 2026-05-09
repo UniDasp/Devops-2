@@ -5,4 +5,4 @@ Proyecto demo CI/CD con:
 - Backend
 - GitHub Actions
 - Docker
-- AWS ECR
+- AWS ECRR
